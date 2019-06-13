@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://vrx.netlify.com/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vrx.netlify.com/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vrx.netlify.com/authors/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vrx.netlify.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vrx.netlify.com/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vrx.netlify.com/publication_types/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vrx.netlify.com/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vrx.netlify.com/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vrx.netlify.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
