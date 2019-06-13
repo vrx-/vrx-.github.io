@@ -3,43 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://vrx.netlify.com/authors/admin/</loc>
+    <loc>https://vrx-.github.io/authors/admin/</loc>
   </url>
   
   <url>
-    <loc>https://vrx.netlify.com/</loc>
+    <loc>https://vrx-.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vrx.netlify.com/authors/</loc>
+    <loc>https://vrx-.github.io/authors/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vrx.netlify.com/categories/</loc>
+    <loc>https://vrx-.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vrx.netlify.com/post/</loc>
+    <loc>https://vrx-.github.io/post/</loc>
   </url>
   
   <url>
-    <loc>https://vrx.netlify.com/publication_types/</loc>
+    <loc>https://vrx-.github.io/publication_types/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://vrx.netlify.com/publication/</loc>
+    <loc>https://vrx-.github.io/publication/</loc>
   </url>
   
   <url>
-    <loc>https://vrx.netlify.com/talk/</loc>
+    <loc>https://vrx-.github.io/talk/</loc>
   </url>
   
   <url>
-    <loc>https://vrx.netlify.com/tags/</loc>
+    <loc>https://vrx-.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
