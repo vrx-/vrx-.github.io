@@ -1,14 +1,118 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>VRX Academic Site</title>
     <link>https://vrx-.github.io/</link>
-    <description>Recent content on Academic</description>
+    <description>Recent content on VRX Academic Site</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <copyright>&amp;copy {year};</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vrx-.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Using a Budget Analysis to Understand Variability in Modeled Bottom Hypoxia of the Texas Louisiana Shelf</title>
+      <link>https://vrx-.github.io/publication/ruiz-2019-using/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrx-.github.io/publication/ruiz-2019-using/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oxygen budget estimation from the advection-diffusion equation in a high resolution model of the Texas-Louisiana Shelf</title>
+      <link>https://vrx-.github.io/publication/ruiz-2018-oxygen/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrx-.github.io/publication/ruiz-2018-oxygen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tracing variability in the budget balance of bottom water dissolved oxygen in the Texas-Louisiana shelf.</title>
+      <link>https://vrx-.github.io/publication/ruiz-2018-tracing/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrx-.github.io/publication/ruiz-2018-tracing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hypoxic extent</title>
+      <link>https://vrx-.github.io/research/extent/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrx-.github.io/research/extent/</guid>
+      <description>&lt;p&gt;Models allow a dynamic estimate of the hypoxic region in the Texas-Louisiana Shelf. While annual summer cruise observations capture a static vision of what is expected to be the largest extent of the season (late July or early August), models simulate the development of the region in time. Although model simulations are not completely accurate, they give an estimation driven by realistic hydrodynamic settings. 20 years of model output capture a wide range of interannual variability.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Patchiness</title>
+      <link>https://vrx-.github.io/research/patchiness/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrx-.github.io/research/patchiness/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;bo_sum2010.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+&lt;p&gt;To reproduce variability within the hypoxic region, models need to resolve sub-mesoscale (100 m to 10 km) and mesoscale (10 to 100 km) dynamic processes. Hourly simulations of a simple oxygen parametrization incorporated in a high resolution hydrodynamic model, show the formation and destruction of eddy-like features and fronts in the bottom oxygen structure. Due to the difficulty of sampling, these features have not been fully observed but hinted by high-resolution Acrobat measurements (DiMarco and Zimmerle, 2017).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Guia de la Fauna Intermareal de las Playas Arenosas del Ecuador Continental - Guide to the Intertidal Fauna of Ecuadorian Sandy Beaches</title>
+      <link>https://vrx-.github.io/publication/ruiz-2004-guia/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrx-.github.io/publication/ruiz-2004-guia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seasonal variation of surf zone hyperbenthos associated with penaeid shrimp larvae at Ecuadorian sandy beaches</title>
+      <link>https://vrx-.github.io/publication/ruiz-2004-seasonal/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrx-.github.io/publication/ruiz-2004-seasonal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estudio preliminar de la variación anual del Hiperbentos intermareal de una playa arenosa de la provincia del Guayas (CENAIM-San Pedro)</title>
+      <link>https://vrx-.github.io/publication/ruiz-2002-estudio/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrx-.github.io/publication/ruiz-2002-estudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interannual Variability of the Meiobenthos and Hyperbenthos Communities from two Ecuadorian Sandy Beaches (1999-2001)</title>
+      <link>https://vrx-.github.io/publication/calles-2002-interannual/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrx-.github.io/publication/calles-2002-interannual/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -1,14 +1,133 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Academic</title>
+    <title>Authors on VRX Academic Site</title>
     <link>https://vrx-.github.io/authors/</link>
-    <description>Recent content in Authors on Academic</description>
+    <description>Recent content in Authors on VRX Academic Site</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
+    <copyright>&amp;copy {year};</copyright>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://vrx-.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Rob Hetland</title>
+      <link>https://vrx-.github.io/authors/rob-hetland/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrx-.github.io/authors/rob-hetland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Veronica Ruiz Xomchuk</title>
+      <link>https://vrx-.github.io/authors/veronica-ruiz-xomchuk/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrx-.github.io/authors/veronica-ruiz-xomchuk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jose Marin Jarrin</title>
+      <link>https://vrx-.github.io/authors/jose-marin-jarrin/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrx-.github.io/authors/jose-marin-jarrin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luis Dominguez Granda</title>
+      <link>https://vrx-.github.io/authors/luis-dominguez-granda/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrx-.github.io/authors/luis-dominguez-granda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sandra Miño</title>
+      <link>https://vrx-.github.io/authors/sandra-mi%C3%B1o/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrx-.github.io/authors/sandra-mi%C3%B1o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alba K Calles</title>
+      <link>https://vrx-.github.io/authors/alba-k-calles/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrx-.github.io/authors/alba-k-calles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Karina González</title>
+      <link>https://vrx-.github.io/authors/karina-gonz%C3%A1lez/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrx-.github.io/authors/karina-gonz%C3%A1lez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luis Domı́nguez Granda</title>
+      <link>https://vrx-.github.io/authors/luis-dom%C4%B1%CC%81nguez-granda/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrx-.github.io/authors/luis-dom%C4%B1%CC%81nguez-granda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M Pilar Cornejo de Grunauer</title>
+      <link>https://vrx-.github.io/authors/m-pilar-cornejo-de-grunauer/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrx-.github.io/authors/m-pilar-cornejo-de-grunauer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Magda Vincx</title>
+      <link>https://vrx-.github.io/authors/magda-vincx/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrx-.github.io/authors/magda-vincx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S GUARTATANGA</title>
+      <link>https://vrx-.github.io/authors/s-guartatanga/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrx-.github.io/authors/s-guartatanga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sonnia Guartatanga</title>
+      <link>https://vrx-.github.io/authors/sonnia-guartatanga/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrx-.github.io/authors/sonnia-guartatanga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V Ruiz</title>
+      <link>https://vrx-.github.io/authors/v-ruiz/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrx-.github.io/authors/v-ruiz/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
