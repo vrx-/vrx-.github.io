@@ -3,8 +3,7 @@ dist: trusty
 before_install:
 - sudo apt-get -qq update && sudo apt-get install -y --no-install-recommends texlive-fonts-recommended texlive-latex-extra texlive-fonts-extra dvipng texlive-latex-recommended
 script:
-- mkdir _build
-- pdflatex -interaction=nonstopmode -halt-on-error -output-directory _build main.tex
+- pdflatex -interaction=nonstopmode -halt-on-error -output-directory files main.tex
 
 deploy:
   provider: pages
@@ -13,5 +12,5 @@ deploy:
   keep_history: true
   file: 'vrx_cv.pdf'
   on:
+      repo: vrx-/vrx-.github.io
       branch: master
-      #repo: vrx-/vrx-.github.io/files
