@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VRX Academic Site</title>
+    <link>https://vrx-.github.io/authors/admin/</link>
+    <description>Recent content on VRX Academic Site</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy {year};</copyright>
+    
+	    <atom:link href="https://vrx-.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://vrx-.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrx-.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a Ph.D. Candidate in Oceanography at Texas A&amp;amp;M University. My research interests include coastal physical-biological interactions, shelf and river plume dynamics, seasonal hypoxia, and the ecological relevance of different scales of variability in the shelf. I use ROMS (COAWST) as a modeling tool, and Python to analyze model output and observational data.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
