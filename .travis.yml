@@ -3,10 +3,12 @@ dist: trusty
 before_install:
 - sudo apt-get -qq update && sudo apt-get install -y --no-install-recommends texlive-fonts-recommended texlive-latex-extra texlive-fonts-extra dvipng texlive-latex-recommended
 script:
+#- pdflatex -interaction=nonstopmode -halt-on-error -output-directory files main.tex
 - pdflatex -interaction=nonstopmode -halt-on-error -output-directory files main.tex
 
 deploy:
-  provider: pages
+#   provider: pages
+  provider: releases
   skip_cleanup: true
   github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   keep_history: true
